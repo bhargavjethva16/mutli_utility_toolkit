@@ -362,7 +362,7 @@ This project applies several fundamental Python programming concepts:
 - The mathematical operations menu handles one selected operation per call, while the geometric area submenu provides its own loop.
 - Input validation and error handling can be improved to make the program more robust.
 
-##
+
 
 ## Learning Objectives
 
@@ -377,5 +377,6 @@ It provides hands-on experience with standard libraries, modular code organisati
 ## Author
 
 ## **Bhargav**
-#   m u t l i _ u t i l i t y _ t o o l k i t  
+
+ 
  
