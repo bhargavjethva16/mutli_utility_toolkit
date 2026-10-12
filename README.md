@@ -253,8 +253,8 @@ The project uses Python's built-in libraries and functions, so no third-party pa
 Before running the project, ensure the following are available:
 
 - Python 3.x installed on the system.
-- Git&#x20;
-- GitHub&#x20;
+- Git
+- GitHub
 - Visual Studio Code or another Python-compatible editor (optional but recommended).
 
 No external Python libraries or additional package installations are required.
@@ -362,7 +362,7 @@ This project applies several fundamental Python programming concepts:
 - The mathematical operations menu handles one selected operation per call, while the geometric area submenu provides its own loop.
 - Input validation and error handling can be improved to make the program more robust.
 
-
+##
 
 ## Learning Objectives
 
@@ -377,6 +377,3 @@ It provides hands-on experience with standard libraries, modular code organisati
 ## Author
 
 ## **Bhargav**
-
- 
- 
